@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning AI Implementations, Numerical Computations and Java Development
 
 <hr>
+
 **Languages I have learnt so far:**
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
