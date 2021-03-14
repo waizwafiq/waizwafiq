@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  [![Waiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=waizwafiq)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=react">
 </p>
 <!-- 
 - 🔭 I’m currently working on ...
