@@ -1,5 +1,4 @@
-### Hello! 👋
-###I am Waiz Wafiq. I am an AI student at University Malaya. 
+### Hello! 👋 I am Waiz Wafiq. I am an AI student at University Malaya. 
 <!--
 **waizwafiq/waizwafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
