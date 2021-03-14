@@ -6,10 +6,8 @@
 - 🌱 I’m currently learning AI Implementations, Numerical Computations and Java Development
 
 <hr>
-<p>
-  
 **Languages I have learnt so far:**
-  
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,7 +16,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=react">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrhmn&layout=compact&theme=react&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=react&langs_count=8">
 </p>
 <!-- 
 - 🔭 I’m currently working on ...
