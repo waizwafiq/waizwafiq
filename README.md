@@ -1,5 +1,4 @@
-<img src="https://imgur.com/itPRRnG">
-
+<img src="https://i.imgur.com/itPRRnG.jpeg">
 ## Hi, I'm Waiz!👋
 
 ### I'm a first-year Artificial Intelligence (AI) student at University Malaya!
