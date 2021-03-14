@@ -2,8 +2,8 @@
 
 ### I'm a first-year Artificial Intelligence (AI) student at University Malaya!
 
-🤗 Still learning
-🌱 I’m currently learning AI Implementations, Numerical Computations and Java Development
+- 🤗 Still learning
+- 🌱 I’m currently learning AI Implementations, Numerical Computations and Java Development
 
 <hr>
 
