@@ -1,9 +1,15 @@
-## Hi, I'm Waiz!👋
+<h1 align="center">Hi, I'm Waiz!👋</h1>
 
-### I'm a first-year Artificial Intelligence (AI) student at University Malaya!
+### I'm a first-year BCS in AI student at University Malaya!
 
-- 🤗 Still learning
-- 🌱 I’m currently learning AI Implementations, Numerical Computations and Java Development
+
+- 🤗 Still learning 
+- 🌱 Currently aiming for:
+  <ul>
+    <li>AI Implementations</li>
+    <li>Numerical Computations</li>
+    <li>Java Development</li>
+  </ul>
 
 <hr>
 
