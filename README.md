@@ -3,8 +3,8 @@
 ### I'm a first-year BCS in AI student at University Malaya!
 
 
-- 🤗 Still learning 
-- 🌱 Currently aiming for:
+- 👨🏻‍🏫 I'm a virtual tutor in Physics and Mathematics for Malaysian Certificate of Education (SPM) students.
+- 🌱 I'm currently aiming for:
   <ul>
     <li>AI Implementations</li>
     <li>Numerical Computations</li>
