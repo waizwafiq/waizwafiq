@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Waiz!👋</h1>
 
-### I'm a first-year BCS in AI student at University Malaya!
+### I'm a first-year AI student at University Malaya!
 
 
 - 👨🏻‍🏫 I'm a virtual tutor in Physics and Mathematics for Malaysian Certificate of Education (SPM) students.
