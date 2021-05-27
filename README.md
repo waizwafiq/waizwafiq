@@ -27,6 +27,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=react">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=react&langs_count=8">
 </p>
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=waizwafiq)  
 <!-- 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
