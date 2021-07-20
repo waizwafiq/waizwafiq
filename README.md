@@ -7,8 +7,7 @@
 - 👨🏻‍🏫 I'm a virtual tutor in Physics and Mathematics for Malaysian Certificate of Education (SPM) students.
 - 💻 I love learning something new, now I'm learning about:
   * ⚙ Back-end web development
-  * 🍟 Arduino
-  * 🤖 Artificial Intelligence subsets
+  * 🤖 Artificial Intelligence development
 
 <hr>
 
