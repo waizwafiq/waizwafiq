@@ -11,8 +11,8 @@
 <h3>👀 About me: </h3>
 
 - 👨🏻‍🏫 I'm a virtual tutor in Physics and Mathematics for Malaysian Certificate of Education (SPM) students.
-- 💻 I love learning something new, now I'm learning about:
-  * ⚙ Back-end web development
+- 💻 I love learning something new! Currently learning about:
+  * ⚙ Back-end web development using Django
   * 🤖 Artificial Intelligence development
 
 <hr>
