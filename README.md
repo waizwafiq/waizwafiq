@@ -1,9 +1,7 @@
 <h1 align='left'>
   Hi, I'm Waiz!&nbsp;  <img width='30px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">&nbsp; 
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/waiz-wafiq/"> 
-  <img align='right' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-</a>&nbsp;&nbsp;  
+
 </h1>
 
 ### I'm a second-year AI student at University Malaya!
