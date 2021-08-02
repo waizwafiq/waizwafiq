@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Waiz!👋</h1>
+<h1 align='left'>
+  Hi, I'm Waiz!&nbsp;  <img width='30px' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">&nbsp; 
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/waiz-wafiq/"> 
+  <img align='right' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+</a>&nbsp;&nbsp;  
+</h1>
 
 ### I'm a second-year AI student at University Malaya!
 
@@ -38,11 +44,11 @@
 <hr>
   
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=react">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=react&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=Waiz's GitHub Stats&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=highcontrast&langs_count=8">
 </p>
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=waizwafiq)  
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=waizwafiq&theme=highcontrast)  
 <!-- 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
