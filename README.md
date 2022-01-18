@@ -46,6 +46,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=highcontrast&langs_count=8">
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waizwafiq&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=waizwafiq&theme=highcontrast)  
 <!-- 
 - 🔭 I’m currently working on ...
