@@ -8,6 +8,7 @@
 
 <h3>👀 About me: </h3>
 
+- 🏢 I'm currently looking for an internship, so I'll be inactive here.
 - 👨🏻‍🏫 I'm a virtual tutor in Physics and Mathematics for Malaysian Certificate of Education (SPM) students.
 - 💻 I love learning something new! Currently learning about:
   * ⚙ Back-end web development using Django
