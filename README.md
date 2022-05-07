@@ -49,7 +49,13 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waizwafiq&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=waizwafiq&theme=highcontrast)  
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=waizwafiq&theme=highcontrast) 
+
+<h3>📫 Get in Touch: </h3>
+<p>
+<a href="https://www.linkedin.com/in/waiz-wafiq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:mwaizwafiq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 <!-- 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
