@@ -43,7 +43,7 @@
 <hr>
   
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=Waiz's GitHub Stats&count_private=true">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=Waiz's GitHub Stats&count_private=true"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=highcontrast&langs_count=8">
 </p>
 
