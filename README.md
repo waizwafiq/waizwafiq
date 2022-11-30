@@ -16,7 +16,7 @@
 
 <hr>
 
-**Languages:**
+### Languages:
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -27,29 +27,45 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
 
-**Frameworks:**
+### Frameworks
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
-**Databases:**
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
+### Libraries
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Tools
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
 <hr>
   
-<p>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=Waiz's GitHub Stats&count_private=true"> -->
+<!-- ANALYTICS -->
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=highcontrast&langs_count=8">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=highcontrast&langs_count=8">
+  
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=Waiz's GitHub Stats&count_private=true"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=highcontrast&langs_count=8"> -->
+ </p>
+ 
+ <p align='center'>
+  ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=waizwafiq&theme=react) 
 </p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waizwafiq&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=waizwafiq&theme=highcontrast) 
 
 <h3>📫 Get in Touch: </h3>
 <p>
