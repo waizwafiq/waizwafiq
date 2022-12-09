@@ -8,7 +8,7 @@
 
 <h3>👀 About me: </h3>
 
-- 👨🏻‍🏫 I'm an online tutor in Physics and Mathematics for Malaysian Certificate of Education (SPM) students. Check out <a href="https://www.afterkelas.com">here</a>!
+- 👨🏻‍🏫 I'm an online tutor in Physics and Mathematics for Malaysian Certificate of Education (SPM) students. Check out <a href="https://www.afterkelas.com" target='_blank'>here</a>!
 - 💻 I love learning something new! Currently learning about:
   * ⚙ Front-end web development
   * 🤖 Signal Processing
