@@ -4,15 +4,14 @@
 
 </h1>
 
-### I'm a second-year AI student at University Malaya!
+### I'm an AI student at University Malaya!
 
 <h3>👀 About me: </h3>
 
-- 🏢 I'm currently looking for an internship, so I'll be inactive here.
-- 👨🏻‍🏫 I'm a virtual tutor in Physics and Mathematics for Malaysian Certificate of Education (SPM) students.
+- 👨🏻‍🏫 I'm an online tutor in Physics and Mathematics for Malaysian Certificate of Education (SPM) students. Check out <a href="https://www.afterkelas.com">here</a>!
 - 💻 I love learning something new! Currently learning about:
-  * ⚙ Back-end web development using Django
-  * 🤖 Artificial Intelligence development
+  * ⚙ Front-end web development
+  * 🤖 Signal Processing
 
 <hr>
 
