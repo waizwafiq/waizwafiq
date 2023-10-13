@@ -12,6 +12,13 @@
 
 <hr>
 
+<!-- ANALYTICS -->
+![ Github Stats Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waizwafiq&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waizwafiq&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=waizwafiq&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=waizwafiq&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=waizwafiq&theme=2077&utcOffset=8)
+
 ### Languages:
 
 <p>
@@ -65,17 +72,7 @@
 
 <hr>
   
-<!-- ANALYTICS -->
-<!--<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=highcontrast&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=highcontrast&langs_count=8"> -->
-  
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=highcontrast&include_all_commits=true&custom_title=Waiz's GitHub Stats&count_private=true"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=highcontrast&langs_count=8"> -->
- 
- <!--<p align='center'>
-  ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=waizwafiq&theme=react) 
-</p>-->
+
 
 <h3>📫 Get in Touch: </h3>
 <p>
