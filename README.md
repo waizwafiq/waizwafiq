@@ -4,7 +4,7 @@
 
 ## Who am I? 👀
 
-- 👨‍🎓 I'm an AI graduate
+- 👨‍🎓 I'm an AI graduate from Universiti Malaya!
 
 - 👨‍🏫 I'm an online tutor in Physics for Malaysian Certificate of Education (SPM) and International GCSE students. Check out <a href="https://www.afterkelas.com" target='_blank'>here</a>!
 
