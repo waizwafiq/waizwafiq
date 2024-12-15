@@ -16,6 +16,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=waizwafiq&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=waizwafiq&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=waizwafiq&theme=2077&utcOffset=8)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waizwafiq&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## My Tech Skills 🛠️
 
