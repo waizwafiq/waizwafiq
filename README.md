@@ -1,11 +1,8 @@
 # Hi, I'm Waiz!
 <sub>(pronounced: <i>"wha" + "ease"</i>)</sub>
 
-
-## Who am I? 👀
-
 - 👨‍🎓 AI graduate from Universiti Malaya
-- 🙇‍♂️ Self-taught full-stack developer (still learning!)
+- 🙇‍♂️ Self-taught aspiring full-stack developer, currently deepening my skills.
 - 👨‍🏫 Online tutor in Physics and Mathematics. Check out <a href="https://www.afterkelas.com" target='_blank'>here</a>!
 
 <hr>
