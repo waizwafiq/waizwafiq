@@ -80,7 +80,6 @@
 
 <!-- Animated Stats Dashboard -->
 <div align="center">
-  <h2>📊 <b>Performance Metrics</b></h2>
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=waizwafiq&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=FF00FF&fire=00D9FF&currStreakLabel=FF00FF" />
@@ -93,7 +92,6 @@
 
 <!-- Trophy Showcase -->
 <div align="center">
-  <h2>🏆 <b>Achievement Unlocked</b></h2>
   <img src="https://github-profile-trophy.vercel.app/?username=waizwafiq&theme=radical&no-frame=true&row=1&column=7" width="100%" />
 </div>
 
@@ -101,7 +99,6 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <h2>🎮 <b>Contribution Snake</b></h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
