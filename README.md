@@ -1,91 +1,137 @@
-# Hi, I'm Waiz!
-<sub>(pronounced: <i>"wha" + "ease"</i>)</sub>
+<div align="center">
 
-<!-- ANALYTICS -->
-![ Github Stats Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waizwafiq&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waizwafiq&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=waizwafiq&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=waizwafiq&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=waizwafiq&theme=2077&utcOffset=8)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waizwafiq&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- Animated Wave -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Waiz+%F0%9F%91%8B;Welcome+to+my+digital+realm" alt="Typing SVG" />
+</h1>
 
-## My Tech Skills 🛠️
+<!-- Futuristic Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=150&section=header&text=&fontSize=0" width="100%"/>
 
-### Languages:
+<!-- Profile Views Counter with Glow Effect -->
+<a href="https://komarev.com/ghpvc/?username=waizwafiq">
+  <img src="https://komarev.com/ghpvc/?username=waizwafiq&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+</a>
 
+<br><br>
+
+<!-- Holographic Name Display -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=435&height=70&lines=WAIZ+WAFIQ" alt="Typing SVG" />
+
+<sub><i>pronounced: "wha" + "ease"</i></sub>
+
+<br><br>
+
+<!-- Animated Badges -->
+<div>
+  <img src="https://img.shields.io/badge/STATUS-CODING-00FF00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FOCUS-INNOVATION-FF00FF?style=for-the-badge&logo=lightning&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MODE-CREATIVE-00D9FF?style=for-the-badge&logo=creativecommons&logoColor=white&labelColor=000000" />
+</div>
+
+</div>
+
+<br>
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waizwafiq&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Galaxy" width="90%"/>
+</div>
+
+<br>
+
+<!-- Tech Arsenal Section -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+    <b>Tech Arsenal</b>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  </h2>
+</div>
+
+<div align="center">
+
+<!-- Languages Grid with Hover Effects -->
+<h3>⚡ Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"> -->
-<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
-<!--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,r,julia" />
+  <br>
+  <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-### Web Dev Frameworks
+<!-- Frameworks Matrix -->
+<h3>🚀 Frameworks & Tools</h3>
 <p>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<!--   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,django,flask,fastapi,astro" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,kubernetes,aws" />
 </p>
 
-### Databases
+<!-- Database Constellation -->
+<h3>💾 Databases</h3>
 <p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
 </p>
 
-### Data Viz Frameworks
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</div>
 
-### Data Processing Frameworks
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+<br>
 
-### AI-Related Frameworks
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### Design and Management
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### Hosting and Containerization
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Others
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-
-<hr>
+<!-- Animated Stats Dashboard -->
+<div align="center">
+  <h2>📊 <b>Performance Metrics</b></h2>
   
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=waizwafiq&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=FF00FF&fire=00D9FF&currStreakLabel=FF00FF" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=waizwafiq&theme=radical&utcOffset=8" />
+</div>
 
-## Let's Connect! 🤝
-<p>
-<a href="https://www.linkedin.com/in/waiz-wafiq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:mwaizwafiq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<br>
+
+<!-- Trophy Showcase -->
+<div align="center">
+  <h2>🏆 <b>Achievement Unlocked</b></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=waizwafiq&theme=radical&no-frame=true&row=1&column=7" width="100%" />
+</div>
+
+<br>
+
+<!-- Snake Animation -->
+<div align="center">
+  <h2>🎮 <b>Contribution Snake</b></h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<!-- Connect Section with Hover Cards -->
+<div align="center">
+  <h2>🌐 <b>Let's Connect</b></h2>
+  
+  <a href="https://www.linkedin.com/in/waiz-wafiq/">
+    <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="mailto:mwaizwafiq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=waizwafiq.waizwafiq&left_color=black&right_color=00D9FF&left_text=Visitors" />
+</div>
+
+<!-- Bottom Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+<!-- Hidden Signature -->
+<div align="center">
+  <sub>⚡ Crafted with passion and pixels ⚡</sub>
+</div>
