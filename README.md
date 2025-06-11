@@ -1,12 +1,6 @@
 # Hi, I'm Waiz!
 <sub>(pronounced: <i>"wha" + "ease"</i>)</sub>
 
-- 👨‍🎓 AI graduate from Universiti Malaya
-- 🙇‍♂️ Self-taught aspiring full-stack developer, currently deepening my skills.
-- 👨‍🏫 Online tutor in Physics and Mathematics. Check out <a href="https://www.afterkelas.com" target='_blank'>here</a>!
-
-<hr>
-
 <!-- ANALYTICS -->
 ![ Github Stats Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waizwafiq&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waizwafiq&theme=2077)
