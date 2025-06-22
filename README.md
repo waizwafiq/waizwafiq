@@ -1,9 +1,10 @@
 <div align="center">
 
 <!-- Animated Wave -->
-<h1>
+<!-- <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Waiz+%F0%9F%91%8B;Welcome+to+my+digital+realm" alt="Typing SVG" />
 </h1>
+-->
 
 <!-- Futuristic Banner -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=150&section=header&text=&fontSize=0" width="100%"/>
