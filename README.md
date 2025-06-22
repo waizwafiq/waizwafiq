@@ -17,8 +17,9 @@
 <br><br>
 
 <!-- Holographic Name Display -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=435&height=70&lines=WAIZ+WAFIQ" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=435&height=70&lines=WAIZ+WAFIQ" alt="Typing SVG" /> -->
 
+hi im waiz
 <sub><i>pronounced: "wha" + "ease"</i></sub>
 
 <br><br>
@@ -36,7 +37,7 @@
 
 <!-- 3D Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waizwafiq&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Galaxy" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waizwafiq&theme=react-dark&hide_border=true&area=true&custom_title=my%20contributionz" width="90%"/>
 </div>
 
 <br>
@@ -44,16 +45,14 @@
 <!-- Tech Arsenal Section -->
 <div align="center">
   <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-    <b>Tech Arsenal</b>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+    <b>tech stackz</b>
   </h2>
 </div>
 
 <div align="center">
 
 <!-- Languages Grid with Hover Effects -->
-<h3>⚡ Languages</h3>
+<h3>Languages</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,r,julia" />
   <br>
@@ -61,7 +60,7 @@
 </p>
 
 <!-- Frameworks Matrix -->
-<h3>🚀 Frameworks & Tools</h3>
+<h3>Frameworks & Tools</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,django,flask,fastapi,astro" />
   <br>
@@ -69,7 +68,7 @@
 </p>
 
 <!-- Database Constellation -->
-<h3>💾 Databases</h3>
+<h3>Databases</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
@@ -111,7 +110,7 @@
 
 <!-- Connect Section with Hover Cards -->
 <div align="center">
-  <h2>🌐 <b>Let's Connect</b></h2>
+  <h2>let's connect!! :D</b></h2>
   
   <a href="https://www.linkedin.com/in/waiz-wafiq/">
     <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
@@ -121,9 +120,7 @@
   </a>
   
   <br><br>
-  
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=waizwafiq.waizwafiq&left_color=black&right_color=00D9FF&left_text=Visitors" />
+
 </div>
 
 <!-- Bottom Wave -->
@@ -131,5 +128,5 @@
 
 <!-- Hidden Signature -->
 <div align="center">
-  <sub>⚡ Crafted with passion and pixels ⚡</sub>
+  <sub>uhhhhhhh go to my personal website to show how messy i am --> waizwafiq.com</sub>
 </div>
