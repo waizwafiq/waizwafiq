@@ -1,132 +1,105 @@
 <div align="center">
-
-<!-- Animated Wave -->
-<!-- <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Waiz+%F0%9F%91%8B;Welcome+to+my+digital+realm" alt="Typing SVG" />
-</h1>
--->
-
-<!-- Futuristic Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=150&section=header&text=&fontSize=0" width="100%"/>
-
-<!-- Profile Views Counter with Glow Effect -->
-<a href="https://komarev.com/ghpvc/?username=waizwafiq">
-  <img src="https://komarev.com/ghpvc/?username=waizwafiq&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
-</a>
-
-<br><br>
-
-<!-- Holographic Name Display -->
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=435&height=70&lines=WAIZ+WAFIQ" alt="Typing SVG" /> -->
-
-hi im waiz
-<sub><i>pronounced: "wha" + "ease"</i></sub>
-
-<br><br>
-
-<!-- Animated Badges -->
-<div>
-  <img src="https://img.shields.io/badge/STATUS-CODING-00FF00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/FOCUS-INNOVATION-FF00FF?style=for-the-badge&logo=lightning&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MODE-CREATIVE-00D9FF?style=for-the-badge&logo=creativecommons&logoColor=white&labelColor=000000" />
-</div>
-
-</div>
-
-<br>
-
-<!-- 3D Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waizwafiq&theme=react-dark&hide_border=true&area=true&custom_title=my%20contributionz" width="90%"/>
-</div>
-
-<br>
-
-<!-- Tech Arsenal Section -->
-<div align="center">
-  <h2>
-    <b>tech stackz</b>
-  </h2>
-</div>
-
-<div align="center">
-
-<!-- Languages Grid with Hover Effects -->
-<h3>Languages</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,r,julia" />
   <br>
-  <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-</p>
-
-<!-- Frameworks Matrix -->
-<h3>Frameworks & Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,django,flask,fastapi,astro" />
+  <h1>
+    hey, i'm waiz 👋
+  </h1>
+  <p>
+    <sub><i>pronounced: "wha" + "ease"</i></sub>
+  </p>
+  
   <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,kubernetes,aws" />
-</p>
-
-<!-- Database Constellation -->
-<h3>Databases</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-</p>
-
-</div>
-
-<br>
-
-<!-- Animated Stats Dashboard -->
-<div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=waizwafiq&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF&ring=FF00FF&fire=00D9FF&currStreakLabel=FF00FF" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=waizwafiq&theme=radical&utcOffset=8" />
-</div>
-
-<br>
-
-<!-- Trophy Showcase -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waizwafiq&theme=radical&no-frame=true&row=1&column=7" width="100%" />
-</div>
-
-<br>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<!-- Connect Section with Hover Cards -->
-<div align="center">
-  <h2>let's connect!! :D</b></h2>
-  
-  <a href="https://www.linkedin.com/in/waiz-wafiq/">
-    <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  <a href="https://komarev.com/ghpvc/?username=waizwafiq">
+    <img src="https://komarev.com/ghpvc/?username=waizwafiq&style=flat-square&color=blue" alt="Profile views" />
   </a>
-  <a href="mailto:mwaizwafiq@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+  <a href="https://waizwafiq.com">
+    <img src="https://img.shields.io/badge/website-waizwafiq.com-blue?style=flat-square" alt="Website" />
   </a>
   
   <br><br>
-
+  
+  <p align="center">
+    <i><del>trying to</del> building cool stuff with code and caffeine</i>
+  </p>
 </div>
 
-<!-- Bottom Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<br>
 
-<!-- Hidden Signature -->
+### about me
+
+```javascript
+const waiz = {
+  pronouns: "he/him",
+  location: "Malaysia",
+  currently: "exploring AI/ML and building web apps",
+  interests: ["machine learning", "web dev", "data science", "creative coding"],
+  funFact: "i debug with console.log and i'm not ashamed"
+};
+```
+
+<br>
+
+### what i work with
+
+<details open>
+<summary><b>languages</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>tools & frameworks</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
+</details>
+
+<br>
+
+### github stats
+
 <div align="center">
-  <sub>uhhhhhhh go to my personal website to show how messy i am --> waizwafiq.com</sub>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waizwafiq&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&icon_color=333&text_color=777&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waizwafiq&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&text_color=777&hide_title=true" />
+</div>
+
+<br>
+
+### recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
+
+### let's connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/waiz-wafiq/">
+    <img src="https://img.shields.io/badge/-waiz--wafiq-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mwaizwafiq@gmail.com">
+    <img src="https://img.shields.io/badge/-mwaizwafiq@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://waizwafiq.com">
+    <img src="https://img.shields.io/badge/-waizwafiq.com-333?style=flat-square&logo=safari&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <sub>built with ❤️ and probably too much coffee</sub>
 </div>
