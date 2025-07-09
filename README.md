@@ -19,10 +19,7 @@
   </a>
   
   <br><br>
-  
-  <p align="center">
-    <i><del>trying to</del> building cool stuff with code and caffeine</i>
-  </p>
+
 </div>
 
 <br>
