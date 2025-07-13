@@ -28,10 +28,9 @@
 
 ```javascript
 const waiz = {
-  pronouns: "he/him",
   location: "Malaysia",
   currently: "exploring AI/ML and building web apps",
-  interests: ["machine learning", "web dev", "data science", "creative coding"],
+  interests: ["machine learning", "web dev", "data science"],
   funFact: "i debug with console.log and i'm not ashamed"
 };
 ```
