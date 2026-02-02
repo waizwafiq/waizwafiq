@@ -1,7 +1,7 @@
 # Waiz Wafiq
 
 
-Currently the Founding Engineer **@ Afterkelas**.  
+Currently the Founding Engineer **@ Afterkelas** & Frontend Dev **@ Fylix**.  
 I specialize in building scalable tech at the intersection of data, AI, web apps, and automation.
 
 ---
